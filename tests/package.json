@@ -1,0 +1,137 @@
+[
+  {
+    "id": 121646999,
+    "state": "CANCELED",
+    "date": "2018-06-08T16:14:59.936274",
+    "operationAmount": {
+      "amount": "91121.62",
+      "currency": {
+        "name": "руб.",
+        "code": "RUB"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "Maestro 7552745726849311",
+    "to": "Счет 34799481846914116850"
+  },
+  {
+    "id": 816266176,
+    "state": "CANCELED",
+    "date": "2018-06-24T00:46:32.422648",
+    "operationAmount": {
+      "amount": "60030.73",
+      "currency": {
+        "name": "USD",
+        "code": "USD"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "МИР 6381702861749111",
+    "to": "Счет 27804394774631586026"
+  },
+  {
+    "id": 736942989,
+    "state": "EXECUTED",
+    "date": "2019-09-06T00:48:01.081967",
+    "operationAmount": {
+      "amount": "6357.56",
+      "currency": {
+        "name": "USD",
+        "code": "USD"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "Visa Gold 3654412434951162",
+    "to": "Счет 59986621134048778289"
+  },
+  {
+    "id": 580054042,
+    "state": "EXECUTED",
+    "date": "2018-06-20T03:59:34.851630",
+    "operationAmount": {
+      "amount": "96350.51",
+      "currency": {
+        "name": "USD",
+        "code": "USD"
+      }
+    },
+    "description": "Перевод с карты на счет",
+    "from": "МИР 3766446452238784",
+    "to": "Счет 86655182730188443980"
+  },
+  {
+    "id": 619287771,
+    "state": "EXECUTED",
+    "date": "2019-08-19T16:30:41.967497",
+    "operationAmount": {
+      "amount": "81150.87",
+      "currency": {
+        "name": "USD",
+        "code": "USD"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "Счет 17691325653939384901",
+    "to": "Счет 49304996510329747621"
+  },
+  {
+    "id": 490100847,
+    "state": "EXECUTED",
+    "date": "2018-12-22T02:02:49.564873",
+    "operationAmount": {
+      "amount": "56516.63",
+      "currency": {
+        "name": "USD",
+        "code": "USD"
+      }
+    },
+    "description": "Перевод с карты на карту",
+    "from": "Visa Gold 8326537236216459",
+    "to": "MasterCard 6783917276771847"
+  },
+  {
+    "id": 179194306,
+    "state": "EXECUTED",
+    "date": "2019-05-19T12:51:49.023880",
+    "operationAmount": {
+      "amount": "6381.58",
+      "currency": {
+        "name": "USD",
+        "code": "USD"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "МИР 5211277418228469",
+    "to": "Счет 58518872592028002662"
+  },
+  {
+    "id": 27192367,
+    "state": "CANCELED",
+    "date": "2018-12-24T20:16:18.819037",
+    "operationAmount": {
+      "amount": "991.49",
+      "currency": {
+        "name": "руб.",
+        "code": "RUB"
+      }
+    },
+    "description": "Перевод со счета на счет",
+    "from": "Счет 71687416928274675290",
+    "to": "Счет 87448526688763159781"
+  },
+  {
+    "id": 921286598,
+    "state": "EXECUTED",
+    "date": "2018-03-09T23:57:37.537412",
+    "operationAmount": {
+      "amount": "25780.71",
+      "currency": {
+        "name": "руб.",
+        "code": "RUB"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "Счет 26406253703545413262",
+    "to": "Счет 20735820461482021315"
+  }
+]
