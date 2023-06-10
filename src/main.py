@@ -1,4 +1,4 @@
-from functions import load_operation, conv_date, conv_number_account, conv_number_kart
+from src.functions import load_operation, conv_date, conv_number_account, conv_number_kart
 
 FILE = "operations.json"
 
@@ -24,7 +24,7 @@ def main():
             operation["to"] = conv_number_kart(operation["to"])
         print(operation["date"] + " " + operation["description"])
         print(operation["from"] + "->" + operation["to"])
-        print(operation["operationAmount"]["amount"] + " " + operation["operationAmount"]["currency"]["name"], end="\n  \n")
+        print(operation["operationAmount"]["amount"] + " " + operation["operationAmount"]["currency"]["name"], end="\n\n")
 
 
 if __name__ == "__main__":
