@@ -14,9 +14,9 @@ def load_operation(FILE):
                     result_executed.append(operation)
             except LookupError:
                 result_error = "Операция не выполнена"
-        last_operations = result_executed[-5:]
-        sorted_operations = sorted(last_operations, key=lambda x: x["date"], reverse=True)
-        return sorted_operations
+        sorted_operations = sorted(result_executed, key=lambda x: x["date"], reverse=True)
+        last_operations = sorted_operations[:5]
+        return last_operations
 
 
 
